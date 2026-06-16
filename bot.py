@@ -7,7 +7,7 @@ from datetime import datetime
 # ==========================================================
 # KONFIGURASI
 # ==========================================================
-TOKEN = 'MTUwOTE2NDYxMTg3NjY4Mzk3Nw.GKzx66.Tjf86yh31uzZjXnAOqmZnPyxhv8d_yWzYbNG6Q' 
+TOKEN = 'MTUwOTE2NDYxMTg3NjY4Mzk3Nw.GdTmFG.L39kPg1KaQbOeT-N_M8xgHlFc98IERk1l1KsKk' 
 WA_LINK = 'https://discord.com/users/941381774003564615'
 
 intents = discord.Intents.default()
